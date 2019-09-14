@@ -24,6 +24,7 @@ console.log(petNames)
 petNames.shift("Erik")
 console.log(petNames)
 
+# e.
 console.log(petNames.indexOf("Riley"))
 
 # f.
